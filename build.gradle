@@ -6,6 +6,7 @@ buildscript {
     }
     dependencies {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:1.1.10.RELEASE")
+       
     }
 }
 
@@ -33,6 +34,8 @@ repositories {
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
     testCompile("junit:junit")
+    compile("org.tmatesoft.svnkit:svnkit:1.8.5")
+    compile("org.eclipse.jgit:org.eclipse.jgit:2.2.0.201212191850-r")
 }
 
 task wrapper(type: Wrapper) {

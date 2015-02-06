@@ -10,6 +10,16 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.tmatesoft.svnkit/svnkit/1.8.5/262b91c4444928734d6aad21992091369a47502d/svnkit-1.8.5-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.tmatesoft.svnkit/svnkit/1.8.5/a9600329d7e6271ab8ab7eb769c4df5adcdf503c/svnkit-1.8.5.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/2.2.0.201212191850-r/8dcf9546f4d61e1b8a50df5da5513006023b64b/org.eclipse.jgit-2.2.0.201212191850-r-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/2.2.0.201212191850-r/97d0761b9dd618d1f9f6c16c35c3ddf045ba536c/org.eclipse.jgit-2.2.0.201212191850-r.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
@@ -46,6 +56,46 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.8.RELEASE/9d95163e22e4c642c3bb87dbbccff00fad8ed528/spring-webmvc-4.0.8.RELEASE-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.8.RELEASE/4042ba6bec36e5206486401259bf85415489550f/spring-webmvc-4.0.8.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2/0.0.7/6bf880e10d7678e5ac4897dab39860a87f8e0725/jsch.agentproxy.svnkit-trilead-ssh2-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2/0.0.7/95015f649026507428aa2f37baba69ba8a86dc67/jsch.agentproxy.svnkit-trilead-ssh2-0.0.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/3.5.2/58843855a12b0ba9ed1efffb85dfbcd052930ad9/jna-3.5.2-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/3.5.2/f1bf9fe267e17c1a8f7d1aa2c985e7fe81a06da6/jna-3.5.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.tmatesoft.sqljet/sqljet/1.1.10/5d9b195660fa3beb4bb54a102af747f4aad25b7/sqljet-1.1.10-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.tmatesoft.sqljet/sqljet/1.1.10/ede7fbabd4c96d34e48fda0e8feced24c98cedca/sqljet-1.1.10.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.5.2/bc6b5158219706865e4a527e2602301286842641/platform-3.5.2-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.5.2/beac07d13858ef3697ceeab43897d70aeb5113c9/platform-3.5.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.connector-factory/0.0.7/88ad6b451496a46a277f56efff1858e1ef8c7eb5/jsch.agentproxy.connector-factory-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.connector-factory/0.0.7/780e0312287dd4e4f3601d401a073a081e403f2d/jsch.agentproxy.connector-factory-0.0.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/de.regnis.q.sequence/sequence-library/1.0.2/425b0013262dac6d0166fca53ad1a27325382599/sequence-library-1.0.2-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/de.regnis.q.sequence/sequence-library/1.0.2/531ae7f7a4eac050dbce729edae139c2e546464/sequence-library-1.0.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.trilead/trilead-ssh2/1.0.0-build217/718d1afa443dbaa94045a77bbad4a028e104af64/trilead-ssh2-1.0.0-build217-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.trilead/trilead-ssh2/1.0.0-build217/bd26b6a96923d5112cd20f821a16b589742ce1aa/trilead-ssh2-1.0.0-build217.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/e528f593b19b04d500992606f58b87fcfded8883/jsch-0.1.44-1-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/2e9ae08de5a71bd0e0d3ba2558598181bfa71d4e/jsch-0.1.44-1.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
@@ -136,6 +186,36 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.8.RELEASE/39f2d7196e73a0753877079d85594678da8d60d2/spring-expression-4.0.8.RELEASE-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.8.RELEASE/268d87575d0cbf23fd43910ca75d0c0e21642144/spring-expression-4.0.8.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.core/0.0.7/1e7de81afd838051022c24185751d5a96b75f1a8/jsch.agentproxy.core-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.core/0.0.7/9bcf818dc9e5247b01b1b18671a12caac293ae40/jsch.agentproxy.core-0.0.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.4/57a73190ad97f56c0cb83a6a5b6c08d5d428319b/antlr-runtime-3.4-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.4/8f011408269a8e42b8548687e137d8eeb56df4b4/antlr-runtime-3.4.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-jna/0.0.7/affe9e19df0572622d581eb099b948bc110ac3a2/jsch.agentproxy.usocket-jna-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-jna/0.0.7/98cf51ca8d7882c203729ffa48e9b7be4c50b835/jsch.agentproxy.usocket-jna-0.0.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-nc/0.0.7/c0a7d2dcae5a4a51dcae332f5116fbf86bdf81e4/jsch.agentproxy.usocket-nc-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-nc/0.0.7/aff6f0f3a68f9731580d7c48075fdf177532dfe6/jsch.agentproxy.usocket-nc-0.0.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.sshagent/0.0.7/fa4b76688b6757d62196c0c227e8426db90a55fe/jsch.agentproxy.sshagent-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.sshagent/0.0.7/5c09a3d2a0562de53cf616794f43f51a3c0a496c/jsch.agentproxy.sshagent-0.0.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.pageant/0.0.7/47d1bf5c6657bba42d49951ad8d394854526bcfd/jsch.agentproxy.pageant-0.0.7-sources.jar" kind="lib" path="C:/Users/fuboo_/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.pageant/0.0.7/b40c0d9b10d79a0683ca93e3f70360b3d8045b62/jsch.agentproxy.pageant-0.0.7.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
